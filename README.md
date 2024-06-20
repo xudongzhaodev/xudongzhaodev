@@ -1,5 +1,8 @@
 ## Hi there 👋
-This is my github page readme
+I am a Java, Python, and Angular Fullstack developer and DevOps living in Paris. 
+I use Spring Boot, Micronaut, and Flask as backend frameworks.
+
+I am also a Rust enthusiast. I hope to explore using Rust in different fields, including web development, DevOps, data science, AI, and embedded system.
 <!--
 **xudongzhaodev/xudongzhaodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

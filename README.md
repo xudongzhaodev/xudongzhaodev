@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Java, Python, and Angular Fullstack developer and DevOps living in Paris. 
 I use Spring Boot, Micronaut, and Flask as backend frameworks.
-Mariadb and PostgreSQL as database.
+Mariadb PostgreSQL and MongoDB as database.
 
 I am also a Rust fans. I hope to explore using Rust in different fields, including web development, DevOps, data science, AI, and embedded system, or just solve leetcode problems with Rust.
 

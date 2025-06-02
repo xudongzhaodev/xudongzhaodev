@@ -1,5 +1,16 @@
 ## Hi there 👋
 I am a Java, Python, and Angular Fullstack developer and DevOps living in Paris. 
+
+I work daily on a personal passion project focused on cutting-edge quantum technologies:
+
+### 🚀 [QuantumCryptLab.com](https://www.quantumcryptlab.com)  
+A growing knowledge hub dedicated to:  
+🧠 Quantum Computing ・ 🔬 Quantum Mechanics ・ 🔐 Quantum Cryptography ・ 🤖 Quantum Machine Learning  
+
+> 🛠️ It's still in its early stages — but I'm building it every day.
+
+---
+
 I use Spring Boot, Micronaut, and Flask as backend frameworks.
 Mariadb PostgreSQL and MongoDB as database.
 

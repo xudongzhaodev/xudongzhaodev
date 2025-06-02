@@ -11,11 +11,11 @@ I often use Golang, mainly for web scraping.
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|
-| [investutil-principal](https://github.com/investutil/investutil-principal) | InvestUtil project principal repo | 🏛️ |
-| [investutil-front](https://github.com/investutil/investutil-front) | Frontend of InvestUtil | TypeScript |
+| [investutil-principal]([https://github.com/investutil/investutil-principal](https://github.com/investutil/investutil-principal)) | InvestUtil project principal repo | 🏛️ |
+| [investutil-front](https://github.com/investutil/investutil-front) | Frontend of InvestUtil | React TypeScript |
 | [investutil-back](https://github.com/investutil/investutil-back) | Backend of InvestUtil | Rust |
 | [investutil-gocrawler](https://github.com/investutil/investutil-gocrawler) | Golang crawler module for InvestUtil | Go |
-| [freeplan-keeper](https://github.com/freeplan-keeper/freeplan-keeper) | Keeps services like RabbitMQ/PostgreSQL alive on free-tier plans | 🛡️ PostgreSQL, Redis, MongoDB |
+| [freeplan-keeper](https://github.com/xudongzhaodev/freeplan-keeper) | Keeps services like RabbitMQ/PostgreSQL alive on free-tier plans | 🛡️ PostgreSQL, Redis, MongoDB |
 | [solana-dev-notebook](https://github.com/quantumcryptlab/solana-dev-notebook) | Solana development notes and tutorials | 🌞 Rust, Solana |
 
 

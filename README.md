@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a Java, Python, and Angular Fullstack developer and DevOps living in Paris. 
-
+I hold a Ph.D. in Physical Chemistry and a Bachelor's degree in Computer Science.
 I work daily on a personal passion project focused on cutting-edge quantum technologies:
 
 ### 🚀 [QuantumCryptLab.com](https://www.quantumcryptlab.com)  

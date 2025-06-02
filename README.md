@@ -7,7 +7,7 @@ I am also a Rust fans. I hope to explore using Rust in different fields, includi
 
 I often use Golang, mainly for web scraping.
 
-### 🔖 More Projects
+### 🔖 Projects
 
 | Name | Description | Tech Stack |
 |------|-------------|------------|

@@ -9,7 +9,7 @@ I work daily on personal passion projects focused on cutting-edge technologies:
 A forge for building composable, functional, and systems-level tools.
 
 #### 🦀 [MonadClaw](https://github.com/monadforge/monadclaw)
-An open-source Rust implementation of [OpenClaw](https://github.com/openclaw) — bringing functional agent orchestration to the systems programming world.
+An open-source Rust implementation of [OpenClaw](https://github.com/openclaw)
 
 > Composable · Concurrent · Correct
 
